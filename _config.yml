@@ -1,0 +1,4 @@
+title: "Mi changelog"
+description: "Historial de cambios y notas"
+theme: jekyll-theme-cayman
+markdown: kramdown
